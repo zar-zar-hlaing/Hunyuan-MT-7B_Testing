@@ -98,7 +98,7 @@ hf download tencent/Hunyuan-MT-Chimera-7B --local-dir ~/hunyuan_model_workspace/
 ```
 
 ## 6️⃣ Performance on AWS G6e.xlarge
-| Scenario | Model Loading Time (s) | Translation Time per Sentence (s) | Notes |
+| Scenario | Model Loading Time (seconds) | Translation Time per Sentence (seconds) | Notes |
 |----------|------------------------|----------------------------------|-------|
 | Cold Start | 9.41 | 22.84 | First CUDA + kernel compilation |
 | Warm Model | 5.78 (avg) | 1.54 (avg) | Subsequent inferences on GPU |
