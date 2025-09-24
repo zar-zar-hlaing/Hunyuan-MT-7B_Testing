@@ -106,3 +106,10 @@ hf download tencent/Hunyuan-MT-Chimera-7B --local-dir ~/hunyuan_model_workspace/
 
 > Recommendation: Use a persistent server (FastAPI/Flask/Gradio) to avoid repeated cold starts.
 
+## 📜 License & Territory Notice
+The Hunyuan-MT models are released under the **Tencent Hunyuan Community License Agreement**.  
+
+Usage of these models is subject to **territorial restrictions** as defined in the license agreement.  
+
+Please review the full license terms here: [Tencent Hunyuan License](https://huggingface.co/tencent/Hunyuan-MT-7B/blob/main/LICENSE)
+
