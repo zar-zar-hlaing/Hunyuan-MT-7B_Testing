@@ -6,7 +6,6 @@ This repository provides scripts for **batch translation** using **Hunyuan-MT-7B
   - [Hunyuan-MT Paper](https://www.arxiv.org/pdf/2509.05209)
   - [Preliminary Ranking of WMT25 MT Systems](https://www.linkedin.com/posts/kocmitom_preliminary-ranking-of-wmt25-general-machine-activity-7364948264888049664-5nAG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADlBqKABh8F94bzPPJCIBmwIqJsD4FPP238)
   - [Hunyuan-MT-7B HuggingFace](https://huggingface.co/tencent/Hunyuan-MT-7B)
-  - [Hunyuan-MT-Chimera-7B HuggingFace](https://huggingface.co/tencent/Hunyuan-MT-Chimera-7B)
   - [Code Repository](https://github.com/Tencent-Hunyuan/Hunyuan-MT)
 
 ---
