@@ -75,7 +75,7 @@ print(output_text)
 
 ### Batch Translation Example
 ```bash
-python3 batch_translate_for-server-use_with-loading-time.py \
+python3 batch_translate.py \
   --input /path/to/input.txt \
   --output /path/to/output.txt \
   --source Chinese \
