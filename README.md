@@ -30,8 +30,6 @@ pip install accelerate bitsandbytes huggingface_hub[cli]
 # Hunyuan-MT-7B
 hf download tencent/Hunyuan-MT-7B --local-dir ~/hunyuan_model_workspace/model/Hunyuan-MT-7B
 
-# Hunyuan-MT-Chimera-7B
-hf download tencent/Hunyuan-MT-Chimera-7B --local-dir ~/hunyuan_model_workspace/model/Hunyuan-MT-Chimera-7B
 ```
 
 ## 3️⃣ Verify Installation
