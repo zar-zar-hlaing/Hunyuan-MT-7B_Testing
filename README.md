@@ -111,5 +111,5 @@ The Hunyuan-MT models are released under the **Tencent Hunyuan Community License
 
 Usage of these models is subject to **territorial restrictions** as defined in the license agreement.  
 
-Please review the full license terms here: [Tencent Hunyuan License](https://huggingface.co/tencent/Hunyuan-MT-7B/blob/main/LICENSE)
+Please review the full license terms here: [Tencent Hunyuan License](https://github.com/Tencent-Hunyuan/Hunyuan-MT?tab=License-1-ov-file)
 
