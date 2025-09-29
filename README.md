@@ -85,7 +85,7 @@ python3 batch_translate.py \
 ## 5️⃣ AWS Server Setup
 ```bash
 # Connect to server
-ssh -i "OT-Access-Key.pem" ubuntu@<AWS-Public-IP>
+ssh -i "Access-Key.pem" ubuntu@<AWS-Public-IP>
 
 # Create workspace
 mkdir -p ~/hunyuan_model_workspace/model
